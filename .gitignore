@@ -3,3 +3,4 @@ vendor
 var/cache
 var/logs
 var/sessions
+app/config/parameters.yml
